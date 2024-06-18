@@ -2,7 +2,7 @@
 
 Engineer from 🇰🇿. In hate love relationship with TypeScript.
 
-Checkout my (dotfiles)[https://github.com/oitan/dotfiles].
+Checkout my [dotfiles](https://github.com/oitan/dotfiles).
 
 <!--
 **oitan/oitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
